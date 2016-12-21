@@ -1,22 +1,12 @@
-# .bashrc
+#
+# ~/.bashrc
+#
 
-# Source global definitions
-if [ -f /etc/bashrc ]; then
-	. /etc/bashrc
-fi
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
 
-# Uncomment the following line if you don't like systemctl's auto-paging feature:
-# export SYSTEMD_PAGER=
-
-# User specific aliases and functions
-
-
-unset GNOME_DESKTOP_SESSION_ID
-PATH=$PATH:./
-
-export DATEMSK=/usr/timetemplate.txt
-
-export PATH
-
-PS1="[\u \W]\$ "
-export PS1
+alias ls='ls --color=auto'
+PS1='[\u@\h \W]\$ '
+# >>>>BEGIN ADDED BY CNCHI INSTALLER<<<< #
+BROWSER=/usr/bin/google-chrome-stable
+EDITOR=/usr/bin/atom

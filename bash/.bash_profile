@@ -1,16 +1,5 @@
-# .bash_profile
+#
+# ~/.bash_profile
+#
 
-# Get the aliases and functions
-if [ -f ~/.bashrc ]; then
-	. ~/.bashrc
-fi
-
-# User specific environment and startup programs
-
-PATH=$PATH:$HOME/.local/bin:$HOME/bin
-
-export PATH
-
-PS1="[\u \W]\$ "
-
-export PS1
+[[ -f ~/.bashrc ]] && . ~/.bashrc
