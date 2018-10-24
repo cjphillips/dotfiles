@@ -1,0 +1,21 @@
+! -- Title:   aurum
+! -- Author:  plasma
+
+*background: #332d34
+*foreground: #dddbcc
+*color0:     #41454c
+*color8:     #41454c
+*color1:     #bfa69c
+*color9:     #bfa69c
+*color2:     #9cbfab
+*color10:    #9cbfab
+*color3:     #ab9c8f
+*color11:    #ab9c8f
+*color4:     #9dbac0
+*color12:    #9dbac0
+*color5:     #857275
+*color13:    #857275
+*color6:     #9cb2bf
+*color14:    #9cb2bf
+*color7:     #dddbcc
+*color15:    #dddbcc

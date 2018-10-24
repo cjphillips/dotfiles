@@ -1,0 +1,16 @@
+! Settings
+URxvt.scrollBar:       false
+URxvt.internalBorder:  35
+URxvt.letterSpace:     0
+URxvt.lineSpace:       0
+
+! XFT Font Settings
+Xft.autohint:          0
+Xft.lcdfilter:         lcddefault
+Xft.hintstyle:         hintslight
+Xft.rgba:              rgb          
+Xft.dpi:               96
+
+! Font
+URxvt*font:            xft:hack:size=10 
+URxvt*boldFont:        xft:hack:bold:size=10

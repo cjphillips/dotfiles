@@ -1,0 +1,21 @@
+! -- Title:     ocean
+! -- Author:    ???
+
+*background: #2b303b
+*foreground: #c5cad2
+*color0:     #2b303b
+*color8:     #65737e
+*color1:     #bf616a
+*color9:     #a3be8c
+*color2:     #ebcb8b
+*color10:    #8fa1b3 
+*color3:     #b48ead
+*color11:    #96b5b4
+*color4:     #c0c5ce
+*color12:    #bf616a
+*color5:     #a3be8c
+*color13:    #ebcb8b
+*color6:     #8fa1b3
+*color14:    #b48ead
+*color7:     #96b5b4
+*color15:    #eff1f5

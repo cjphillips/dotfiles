@@ -1,0 +1,21 @@
+! -- Title:     posila
+! -- Author:    plasma
+
+*background: #2B303B
+*foreground: #c5c8c6
+*color0:     #373b41
+*color8:     #373b41
+*color1:     #BF616A
+*color9:     #BF616A
+*color2:     #A3BE8C
+*color10:    #A3BE8C
+*color3:     #EBCB8B
+*color11:    #EBCB8B
+*color4:     #96B5B4
+*color12:    #96B5B4
+*color5:     #B48EAD
+*color13:    #B48EAD
+*color6:     #96B5A6
+*color14:    #96B5A6
+*color7:     #cfcfc4
+*color15:    #cfcfc4

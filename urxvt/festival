@@ -1,0 +1,21 @@
+! -- Title:     festival
+! -- Author:    plasma
+
+*background: #15181e
+*foreground: #ced6e0
+*color0:     #2f3542
+*color8:     #2f3542
+*color1:     #b2403c
+*color9:     #b2403c
+*color2:     #1d7c4b
+*color10:    #1d7c4b
+*color3:     #f2c548
+*color11:    #f2c548
+*color4:     #52afa4
+*color12:    #52afa4
+*color5:     #525faf
+*color13:    #525faf
+*color6:     #068b76
+*color14:    #068b76
+*color7:     #ced6e0
+*color15:    #dfe4ea

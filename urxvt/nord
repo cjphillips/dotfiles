@@ -1,0 +1,21 @@
+! -- Title:     nord
+! -- Author:    arcticstudios
+
+*background: #2f343f
+*foreground: #d8dee8
+*color0:     #4b5262
+*color8:     #4b5262
+*color1:     #bf616a
+*color9:     #bf616a
+*color2:     #a3be8c
+*color10:    #a3be8c
+*color3:     #ebcb8b
+*color11:    #ebcb8b
+*color4:     #81a1c1
+*color12:    #81a1c1
+*color5:     #b48ead
+*color13:    #b48ead
+*color6:     #89d0ba
+*color14:    #89d0ba
+*color7:     #e5e9f0
+*color15:    #e5e9f0

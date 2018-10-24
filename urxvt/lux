@@ -1,0 +1,21 @@
+! -- Title:     lux
+! -- Author:    plasma
+
+*background: #f6f6f6
+*foreground: #373b41
+*color0:     #41454c
+*color8:     #41454c
+*color1:     #ef978b
+*color9:     #95d1a9
+*color2:     #f7ca88
+*color10:    #72a7cf 
+*color3:     #c9a0ca
+*color11:    #71cecd
+*color4:     #63666c
+*color12:    #ef978b
+*color5:     #95d1a9
+*color13:    #f7ca88
+*color6:     #72a7cf
+*color14:    #c9a0ca
+*color7:     #71cecd
+*color15:    #63666c
